@@ -6,7 +6,8 @@ Tutorial sobre Debian.
 
 http://www.matthiaskauer.com/2015/03/install-boot-repair-on-debian-from-ubuntu-ppa/
 
-### Activar sudo:
+### Activar sudo
+
 ´´´sh
 su
 apt-get install sudo
@@ -14,7 +15,7 @@ sudo adduser nombre_usuario sudo
 ´´´
 
 ### Actualizar Debian
-´´´ sh
+´´´sh
 sudo apt-get update && sudo apt-get upgrade && sudo apt-get dist-upgrade && sudo apt-get autoremove
 ´´´
 
