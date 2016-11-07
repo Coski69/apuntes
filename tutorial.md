@@ -13,3 +13,9 @@ sudo adduser nombre_usuario sudo
 ''' sh
 sudo apt-get update && sudo apt-get upgrade && sudo apt-get dist-upgrade && sudo apt-get autoremove
 '''
+
+### Instalar instatador grafico de paquetes Debian.
+
+'''sh
+sudo apt-get install gdebi
+'''
