@@ -2,6 +2,10 @@
 
 Tutorial sobre Debian.
 
+### Boot Repair
+
+http://www.matthiaskauer.com/2015/03/install-boot-repair-on-debian-from-ubuntu-ppa/
+
 ### Activar sudo:
 ''' sh
 su
