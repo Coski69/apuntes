@@ -23,3 +23,26 @@ sudo apt-get update && sudo apt-get upgrade && sudo apt-get dist-upgrade && sudo
 '''sh
 sudo apt-get install gdebi
 '''
+
+### Instalar mis aplicaciones favoritas
+
+'''sh
+sudo apt-get install htop
+sudo apt-get install libreoffice
+sudo apt-get install transmission-gtk
+'''
+
+equivalente a:
+'''sh
+sudo apt-get install htop libreoffice transmission-gtk
+'''
+
+### Ejecutar Scripts
+
+'''sh 
+bash nombre_script.sh
+'''
+
+
+
+
